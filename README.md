@@ -1,4 +1,4 @@
-#Employee Management
+# Employee Management
 
 The Employee Management project is a Python script that performs various operations on a list of employee dictionaries. It includes functions to modify the employee list, generate usernames, and map employee IDs to their first initials.
 
